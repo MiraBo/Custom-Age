@@ -1,0 +1,9 @@
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\bin\Debug\CustomAge.exe.config
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.Form1.resources
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.Properties.Resources.resources
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.csproj.GenerateResource.Cache
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\bin\Debug\CustomAge.exe
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\bin\Debug\CustomAge.pdb
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.exe
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.pdb
+C:\Users\MariaBochkarev\Desktop\C#\CustomAge\CustomAge\obj\Debug\CustomAge.csprojResolveAssemblyReference.cache
